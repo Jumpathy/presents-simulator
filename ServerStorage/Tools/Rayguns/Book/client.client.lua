@@ -1,0 +1,1 @@
+require(game:GetService("ReplicatedStorage"):WaitForChild("logic"):WaitForChild("raygun"):WaitForChild("client"))(script.Parent);
