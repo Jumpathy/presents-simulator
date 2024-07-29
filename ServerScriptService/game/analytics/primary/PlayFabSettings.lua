@@ -10,8 +10,8 @@ local PlayFabSettings = {
         requestGetParams = {["sdk"] = "RobloxSdk_undefined"}
     },
 	settings = {
-		devSecretKey = "Z1XQS9K9JJEPIDOA9BRPJORXGRNR76Q3G7FQHDATIDM99AGBST",
-		titleId = "E1755",
+		devSecretKey = "",
+		titleId = "",
 
         -- Probably don't need to edit
         productionUrl = ".playfabapi.com",
